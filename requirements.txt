@@ -5,3 +5,6 @@ PyGObject
 ruamel.yaml
 setuptools_scm
 discid
+flask
+flask-table
+pyudev
